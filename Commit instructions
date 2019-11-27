@@ -1,9 +1,8 @@
 How to commit things
 
-Do an initial commit
-
-edit
-save
-Stage, write commit message, commit
-
-Edit 1
+1. Make an edit to a file or files
+2. Go to Git tab in the Environment pane
+3. Click on space(s) in Staged column, then click Commit
+4: Write commit message, summarising edit(s)
+5: Click Commit
+6: Commit now can be viewed by clicking Commit in Git pane and going to History tab
