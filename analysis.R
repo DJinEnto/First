@@ -26,4 +26,4 @@ rescale()<-function(x) {
 }
 #be careful, this can override an exisiting func with same name
 #can get around this by using package_name::function
-#also, give your functions relevant names
+#also, give your functions relevant names 
